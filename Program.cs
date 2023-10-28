@@ -63,7 +63,7 @@ El siguiente bloque de código utiliza un switch para determinar qué tipo de op
          se imprime el resultado en la consola utilizando una interpolación de cadenas para combinar los valores de las variables con texto.
 
         */
-         // Prueba con tres operandos
+        
 
       if (calculadora != null)
         {
