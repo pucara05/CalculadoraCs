@@ -1,0 +1,14 @@
+/home/pucara/calculadora/bin/Debug/net7.0/calculadora
+/home/pucara/calculadora/bin/Debug/net7.0/calculadora.deps.json
+/home/pucara/calculadora/bin/Debug/net7.0/calculadora.runtimeconfig.json
+/home/pucara/calculadora/bin/Debug/net7.0/calculadora.dll
+/home/pucara/calculadora/bin/Debug/net7.0/calculadora.pdb
+/home/pucara/calculadora/obj/Debug/net7.0/calculadora.GeneratedMSBuildEditorConfig.editorconfig
+/home/pucara/calculadora/obj/Debug/net7.0/calculadora.AssemblyInfoInputs.cache
+/home/pucara/calculadora/obj/Debug/net7.0/calculadora.AssemblyInfo.cs
+/home/pucara/calculadora/obj/Debug/net7.0/calculadora.csproj.CoreCompileInputs.cache
+/home/pucara/calculadora/obj/Debug/net7.0/calculadora.dll
+/home/pucara/calculadora/obj/Debug/net7.0/refint/calculadora.dll
+/home/pucara/calculadora/obj/Debug/net7.0/calculadora.pdb
+/home/pucara/calculadora/obj/Debug/net7.0/calculadora.genruntimeconfig.cache
+/home/pucara/calculadora/obj/Debug/net7.0/ref/calculadora.dll
